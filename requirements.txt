@@ -1,0 +1,11 @@
+pandas
+requests
+beautifulsoup4
+ipython
+numpy
+matplotlib
+spacy
+unidecode
+scikit-learn
+pillow
+wordcloud 
